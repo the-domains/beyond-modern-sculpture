@@ -4,21 +4,21 @@
         <description><![CDATA[Beyond Modern Sculpture]]></description>
         <link>https://thegrid.ai/beyond-modern-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 03:56:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 03:57:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/beyond-modern-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Abjet d'Art (1991)]]></title>
+            <description><![CDATA[<p>Computer, sensors, speech synthesizer;</p>]]></description>
+            <link>https://thegrid.ai/beyond-modern-sculpture/abjet-dart-1991/index.html</link>
+            <guid isPermaLink="false">0bdae34f-bbd1-429d-9658-d6838bb807fa</guid>
+            <pubDate>Thu, 07 Jul 2016 03:57:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ball and Chain (1994)]]></title>
             <description><![CDATA[<p>Ship's lantern, manacle, electronics;14x14x24"; 20lbs.</p>]]></description>
             <link>https://thegrid.ai/beyond-modern-sculpture/ball-and-chain-1994/index.html</link>
             <guid isPermaLink="false">68d8fe2e-2c19-49a0-baaf-f8c1515ce569</guid>
             <pubDate>Thu, 07 Jul 2016 03:56:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Abjet d'Art (1991)]]></title>
-            <description><![CDATA[<article><h1>Abjet d'Art (1991)</h1><p>Computer, sensors, speech synthesizer;</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6edc78a-d69f-4631-9bf2-1786674ec4ef.jpg"></article>]]></description>
-            <link>https://thegrid.ai/beyond-modern-sculpture/abjet-dart-1991/index.html</link>
-            <guid isPermaLink="false">0bdae34f-bbd1-429d-9658-d6838bb807fa</guid>
-            <pubDate>Thu, 07 Jul 2016 03:22:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
